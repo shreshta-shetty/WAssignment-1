@@ -12,7 +12,6 @@ This is a multi-page website created for Web Lab Assignment-1. It includes *Resu
 ## Technologies Used
 - HTML5
 - CSS3
-- Optional: JavaScript (for minor interactivity)
 
 ## How to View
 1. Clone the repository:  
